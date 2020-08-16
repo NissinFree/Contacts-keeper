@@ -1,1 +1,1 @@
-# Ruby Inter
+# Ruby Intern

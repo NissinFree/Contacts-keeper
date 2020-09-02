@@ -1,2 +1,2 @@
 # Ruby Internals
-#### presented a
+#### presented at

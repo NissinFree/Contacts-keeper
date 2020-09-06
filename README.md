@@ -1,2 +1,2 @@
 # Ruby Internals
-#### presented at [Rails G
+#### presented at [Rails Gi

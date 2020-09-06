@@ -1,2 +1,2 @@
 # Ruby Internals
-#### presented at [Rails Gir
+#### presented at [Rails Girls

@@ -1,2 +1,2 @@
 # Ruby Internals
-#### presented at [Rails Girls TO, July 27
+#### presented at [Rails Girls TO, July 27 

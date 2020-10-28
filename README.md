@@ -1,2 +1,2 @@
 # Ruby Internals
-#### presented at [Rails Girls TO, July 27 2016](http:/
+#### presented at [Rails Girls TO, July 27 2016](http://

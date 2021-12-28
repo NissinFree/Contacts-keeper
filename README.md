@@ -5,4 +5,4 @@ This presentation was *heavily* inspired by Pat Shaughnessy's [Ruby Under a Micr
 
 #### Image credits
 * The slides include a few screenshots from [Ruby Under a Microscope](http://patshaughnessy.net/ruby-under-a-microscope) (see Compilation section)
-* The AST and Stack
+* The AST and Stack 

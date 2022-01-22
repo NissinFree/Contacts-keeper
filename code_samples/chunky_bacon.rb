@@ -1,1 +1,1 @@
-3.time
+3.times

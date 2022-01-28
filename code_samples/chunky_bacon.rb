@@ -1,1 +1,1 @@
-3.times d
+3.times do

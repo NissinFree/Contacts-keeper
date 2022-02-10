@@ -1,2 +1,2 @@
 3.times do
-  puts "C
+  puts "Ch

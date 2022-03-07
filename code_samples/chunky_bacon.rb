@@ -1,2 +1,2 @@
 3.times do
-  puts "Chunky bacon
+  puts "Chunky bacon!

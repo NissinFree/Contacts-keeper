@@ -1,2 +1,2 @@
 3.times do
-  puts "Chunky bac
+  puts "Chunky baco

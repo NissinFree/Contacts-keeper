@@ -3,4 +3,4 @@ require 'pp'
 
 code = <<STR
 3.times do
-  puts "Chunky Bac
+  puts "Chunky Baco

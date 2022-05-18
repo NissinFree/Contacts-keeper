@@ -6,3 +6,5 @@ code = <<STR
   puts "Chunky Bacon!"
 end
 STR
+
+p

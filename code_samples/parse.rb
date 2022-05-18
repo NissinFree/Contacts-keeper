@@ -7,4 +7,4 @@ code = <<STR
 end
 STR
 
-pu
+put

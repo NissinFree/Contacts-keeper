@@ -8,4 +8,4 @@ end
 STR
 
 puts code
-pp Ripper.sexp(cod
+pp Ripper.sexp(code

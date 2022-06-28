@@ -1,1 +1,1 @@
-require 'rippe
+require 'ripper

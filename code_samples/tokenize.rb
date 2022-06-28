@@ -1,1 +1,1 @@
-require 'ri
+require 'rip

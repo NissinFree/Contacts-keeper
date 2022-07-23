@@ -1,2 +1,2 @@
 require 'ripper'
-requir
+require

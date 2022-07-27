@@ -1,2 +1,2 @@
 require 'ripper'
-require '
+require 'p

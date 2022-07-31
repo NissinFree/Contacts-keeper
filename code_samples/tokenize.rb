@@ -1,4 +1,4 @@
 require 'ripper'
 require 'pp'
 
-code =
+code = 

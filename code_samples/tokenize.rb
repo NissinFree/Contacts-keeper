@@ -2,4 +2,4 @@ require 'ripper'
 require 'pp'
 
 code = <<STR
-3.tim
+3.time

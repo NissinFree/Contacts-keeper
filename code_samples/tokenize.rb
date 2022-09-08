@@ -5,3 +5,4 @@ code = <<STR
 3.times do
   puts "Chunky Bacon!"
 end
+S

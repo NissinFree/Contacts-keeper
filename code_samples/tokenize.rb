@@ -7,3 +7,4 @@ code = <<STR
 end
 STR
 
+p

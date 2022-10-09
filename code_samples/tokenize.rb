@@ -7,4 +7,4 @@ code = <<STR
 end
 STR
 
-puts cod
+puts code

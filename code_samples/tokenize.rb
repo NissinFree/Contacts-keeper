@@ -8,4 +8,4 @@ end
 STR
 
 puts code
-pp Rippe
+pp Ripper

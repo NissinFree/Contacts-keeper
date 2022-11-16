@@ -8,4 +8,4 @@ end
 STR
 
 puts code
-pp Ripper.le
+pp Ripper.lex

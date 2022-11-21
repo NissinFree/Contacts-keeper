@@ -8,4 +8,4 @@ end
 STR
 
 puts code
-pp Ripper.lex(c
+pp Ripper.lex(co

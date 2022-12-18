@@ -1,1 +1,1 @@
-code = <<EN
+code = <<END

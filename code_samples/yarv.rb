@@ -1,2 +1,2 @@
 code = <<END
-3.tim
+3.time

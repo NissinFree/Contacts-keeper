@@ -1,4 +1,4 @@
 code = <<END
 3.times do
   puts "Chunky Bacon!"
-e
+en

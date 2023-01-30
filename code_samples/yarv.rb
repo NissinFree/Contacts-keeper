@@ -4,4 +4,4 @@ code = <<END
 end
 END
 
-p
+pu

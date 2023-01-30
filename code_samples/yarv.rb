@@ -4,3 +4,4 @@ code = <<END
 end
 END
 
+p

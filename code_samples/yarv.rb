@@ -4,4 +4,4 @@ code = <<END
 end
 END
 
-put
+puts

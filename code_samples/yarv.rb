@@ -4,4 +4,4 @@ code = <<END
 end
 END
 
-puts Rub
+puts Ruby

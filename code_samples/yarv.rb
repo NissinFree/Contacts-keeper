@@ -4,4 +4,4 @@ code = <<END
 end
 END
 
-puts RubyVM::I
+puts RubyVM::In

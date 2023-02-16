@@ -4,4 +4,4 @@ code = <<END
 end
 END
 
-puts RubyVM::InstructionSequence.comp
+puts RubyVM::InstructionSequence.compi
